@@ -28,7 +28,7 @@ export default class AboutTab extends Component<Props> {
             <PreferenceItem>
               <div>
                 <a
-                  href={'https://github.com/sorcererXW/iloveworks'}
+                  href={'https://http://121.41.48.167'}
                   target={'_blank'}
                   rel={'noopener noreferrer'}
                   style={{
@@ -36,7 +36,7 @@ export default class AboutTab extends Component<Props> {
                     color: scheme.accent,
                   }}
                 >
-                  Github
+                  404Lab
                 </a>
               </div>
             </PreferenceItem>
